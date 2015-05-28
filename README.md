@@ -1,2 +1,2 @@
-# PEuler
-Project Euler 
+# Project Euler
+
